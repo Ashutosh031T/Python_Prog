@@ -1,0 +1,6 @@
+print(type(32))
+print(type(32.34553221234557778997655444466767))
+print(type(32.2344))
+print(type("32"))
+print(type('32'))
+print(type(32))
